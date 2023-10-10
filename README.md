@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHRambo&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=0d1117" />
 </div>
 
+![Snake animation](https://github.com/gbrogio/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <h1>Contact</h1>
     <div class="contato">
         <div>
