@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32881F&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile.;My+name+is+Gustavo+Henrique+Rambo.;I'm+a+developer+student." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32881F&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile.;My+name+is+Gustavo+Henrique+Rambo.;I'm+a+developer+student.;I'm+looking+for+an+opportunity." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">  
@@ -23,7 +23,6 @@
     <h1>Learning</h1>
     <div class="estudos">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="">
     </div>
