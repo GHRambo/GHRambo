@@ -16,7 +16,7 @@
             <a class="contatoBotao" href="https://www.linkedin.com/in/gustavo-henrique-rambo-515bb31a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image Logo Image Linkedin"></a>
         </div>
     </div>
-    <h1>Skils</h1>
+    <h1>Skills</h1>
     <div class="skils">
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="">
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="">
